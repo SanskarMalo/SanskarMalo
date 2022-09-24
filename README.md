@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanskar Malhotra</h1>
 <h3 align="center">Thorough and meticulous Business Analyst passionate about helping businesses succeed .An aspiring student who loves understanding different business needs and solving business problems backed with data and numbers.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/business-analyst-man-working-with-business-data_116137-783.jpg?w=2000">
+
 - 💼 I’m currently working as a **Freelance -Mapping Analyst and Data Analyst at TELUS International AI Data Solutions(Canada Based)**
 
-- 🌱 I’m currently learning **Python-Pandas , Numpy , PowerBi  because learning never stops **
+- 🌱 I’m currently learning **Python-Pandas , Numpy , PowerBi**
 
 - ✨ I’m Passionate about **kick-starting my career as a Business Analyst or as Data Analyst**
 
