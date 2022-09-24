@@ -1,7 +1,5 @@
-[<h1 align="center">Hi 👋, I'm Sanskar Malhotra</h1>
+<h1 align="center">Hi 👋, I'm Sanskar Malhotra</h1>
 <h3 align="center">Thorough and meticulous Business Analyst passionate about helping businesses succeed .An aspiring student who loves understanding different business needs and solving business problems backed with data and numbers.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmalo" alt="sanskarmalo" /></a> </p>
 
 - 💼 I’m currently working as a **Freelance -Mapping Analyst and Data Analyst at TELUS International AI Data Solutions(Canada Based)**
 
@@ -24,8 +22,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarmalo&show_icons=true&locale=en&layout=compact" alt="sanskarmalo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarmalo&show_icons=true&locale=en" alt="sanskarmalo" /></p>
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
