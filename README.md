@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanskar Malhotra</h1>
 <h3 align="center">Thorough and meticulous Business Analyst passionate about helping businesses succeed .An aspiring student who loves understanding different business needs and solving business problems backed with data and numbers.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmalo" alt="sanskarmalo" /></a> </p>
+
 - 💼 I’m currently working as a **Freelance -Mapping Analyst and Data Analyst at TELUS International AI Data Solutions(Canada Based)**
 
 - 🌱 I’m currently learning **Python-Pandas , Numpy , PowerBi**
