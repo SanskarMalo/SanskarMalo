@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanskar Malhotra</h1>
+[<h1 align="center">Hi 👋, I'm Sanskar Malhotra</h1>
 <h3 align="center">Thorough and meticulous Business Analyst passionate about helping businesses succeed .An aspiring student who loves understanding different business needs and solving business problems backed with data and numbers.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmalo" alt="sanskarmalo" /></a> </p>
@@ -28,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarmalo&show_icons=true&locale=en&layout=compact" alt="sanskarmalo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarmalo&show_icons=true&locale=en" alt="sanskarmalo" /></p>
+](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
